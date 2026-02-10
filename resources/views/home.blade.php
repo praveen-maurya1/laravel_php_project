@@ -6,7 +6,8 @@
 <!-- ===== HERO SECTION ===== -->
 <section class="hero">
 
-    <h1>Pure & Authentic Indian Spices</h1>
+    <h1>Pure & Authentic</h1>
+    <h1>Indian Spices</h1>
     <p>Bringing taste, aroma & purity to your kitchen</p>
     <a href="products"><button>Explore Products</button></a>
 </section>
