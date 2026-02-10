@@ -45,17 +45,17 @@
         <div class="card">
             <img src="{{ asset('images/badam.jpg') }}">
 
-            <h3>Almonds</h3>
+            <h3>ALMONDS</h3>
         </div>
 
         <div class="card">
             <img src="{{ asset('images/kaju.webp') }}">
-            <h3>Cashew Nuts</h3>
+            <h3>CASHEW NUTS</h3>
         </div>
 
         <div class="card">
             <img src="{{ asset('images/KISHMISH.webp') }}">
-            <h3>Raisins</h3>
+            <h3>RAISINS</h3>
         </div>
     </div>
 </section>
