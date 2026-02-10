@@ -1,6 +1,7 @@
 @extends('layouts.base')
 @section('body-class', 'header-normal')
 
+@section('footer-class', 'footer')
 @section('content')
 <!-- ===== HERO SECTION ===== -->
 <section class="hero">
@@ -37,6 +38,23 @@
 
         <div class="card">
             <img src="{{ asset('images/laung.png') }}">
+            <h3>CLOVE</h3>
+        </div>
+    </div>
+    <div class="product-home">
+        <div class="card">
+            <img src="{{ asset('images/badam.jpg') }}">
+
+            <h3>BLACK PEPPER</h3>
+        </div>
+
+        <div class="card">
+            <img src="{{ asset('images/kaju.webp') }}">
+            <h3>CINNAMON</h3>
+        </div>
+
+        <div class="card">
+            <img src="{{ asset('images/KISHMISH.webp') }}">
             <h3>CLOVE</h3>
         </div>
     </div>

@@ -3,6 +3,7 @@
 @section('title', 'Contact Us')
 
 @section('body-class', 'header-normal')
+@section('footer-class', 'footer-fixed')
 
 @section('content')
 

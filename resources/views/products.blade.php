@@ -2,6 +2,8 @@
 
 @section('title', 'Our Products')
 @section('body-class', 'header-normal')
+
+@section('footer-class', 'footer')
 @section('content')
 
 <!-- PAGE HERO -->

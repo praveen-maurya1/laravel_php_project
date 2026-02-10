@@ -4,6 +4,7 @@
 
 @section('body-class', 'header-normal')
 
+@section('footer-class', 'footer')
 @section('content')
 
 <!-- PAGE HERO -->
@@ -42,6 +43,18 @@
 
             <div class="gallery-card">
                 <img src="{{ asset('images/img6.png') }}" class="gallery-img" alt="Gallery image">
+            </div>
+            <div class="gallery-card">
+                <img src="{{ asset('images/sw1.jpg') }}" class="gallery-img" alt="Gallery image">
+            </div>
+
+
+            <div class="gallery-card">
+                <img src="{{ asset('images/sw2.jpg') }}" class="gallery-img" alt="Gallery image">
+            </div>
+
+            <div class="gallery-card">
+                <img src="{{ asset('images/sw3.jpg') }}" class="gallery-img" alt="Gallery image">
             </div>
 
         </div>

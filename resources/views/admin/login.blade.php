@@ -8,7 +8,7 @@
     <style>
         body {
             margin: 0;
-            height: 100vh;
+            height: 70vh;
             font-family: Arial, sans-serif;
             background: #f7f7f7;
             display: flex;
@@ -172,7 +172,6 @@
 </head>
 
 <body>
-
     <div class="login-wrapper">
         <div class="login-header">
             Swastik Spices
@@ -192,7 +191,10 @@
                 <input type="password" name="password" placeholder="Password" required>
 
                 <button type="submit">Login</button>
+
             </form>
+            <h4>Please Login With Your Credentials to Use Admin Power....</h4>
+            <h3>THANK YOU</h3>
         </div>
 
         <div class="login-footer">
