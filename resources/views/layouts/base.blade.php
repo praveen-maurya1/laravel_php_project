@@ -2,7 +2,8 @@
 <html lang="en">
 
 <head>
-    <link rel="stylesheet" href="{{ asset('/style.css') }}?v=5">
+    <!-- <link rel="stylesheet" href="style.css"> -->
+    <link rel="stylesheet" href="/style.css?v=5">
 
     <meta charset="UTF-8">
     <title>Swastik Spices</title>
