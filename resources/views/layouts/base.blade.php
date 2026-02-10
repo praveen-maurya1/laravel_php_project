@@ -24,8 +24,9 @@
         </nav>
     </header>
 
-
-    @yield('content')
+    <main>
+        @yield('content')
+    </main>
 
 
     <!-- ===== FOOTER ===== -->
