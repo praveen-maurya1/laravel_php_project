@@ -27,24 +27,24 @@
 
     <div class="product-home">
         <div class="card">
-            <img src="{{ asset('images/kali_mirch.png') }}">
+            <img src="{{ asset('images/kali_mirch.webp') }}">
 
             <h3>BLACK PEPPER</h3>
         </div>
 
         <div class="card">
-            <img src="{{ asset('images/dalchini.png') }}">
+            <img src="{{ asset('images/dalchini.webp') }}">
             <h3>CINNAMON</h3>
         </div>
 
         <div class="card">
-            <img src="{{ asset('images/laung.png') }}">
+            <img src="{{ asset('images/laung.webp') }}">
             <h3>CLOVE</h3>
         </div>
     </div>
     <div class="product-home">
         <div class="card">
-            <img src="{{ asset('images/badam.jpg') }}">
+            <img src="{{ asset('images/badam.webp') }}">
 
             <h3>ALMONDS</h3>
         </div>

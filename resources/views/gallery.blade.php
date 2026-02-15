@@ -22,39 +22,39 @@
         <div class="gallery-grid">
 
             <div class="gallery-card">
-                <img src="{{ asset('images/img1.png') }}" class="gallery-img" alt="Gallery image">
+                <img src="{{ asset('images/img1.webp') }}" class="gallery-img" alt="Gallery image">
             </div>
 
             <div class="gallery-card">
-                <img src="{{ asset('images/img4.png') }}" class="gallery-img" alt="Gallery image">
+                <img src="{{ asset('images/img4.webp') }}" class="gallery-img" alt="Gallery image">
             </div>
             <div class="gallery-card">
-                <img src="{{ asset('images/img2.png') }}" class="gallery-img" alt="Gallery image">
-            </div>
-
-            <div class="gallery-card">
-                <img src="{{ asset('images/img3.png') }}" class="gallery-img" alt="Gallery image">
-            </div>
-
-
-            <div class="gallery-card">
-                <img src="{{ asset('images/img5.png') }}" class="gallery-img" alt="Gallery image">
+                <img src="{{ asset('images/img2.webp') }}" class="gallery-img" alt="Gallery image">
             </div>
 
             <div class="gallery-card">
-                <img src="{{ asset('images/img6.png') }}" class="gallery-img" alt="Gallery image">
-            </div>
-            <div class="gallery-card">
-                <img src="{{ asset('images/sw1.jpg') }}" class="gallery-img" alt="Gallery image">
+                <img src="{{ asset('images/img3.webp') }}" class="gallery-img" alt="Gallery image">
             </div>
 
 
             <div class="gallery-card">
-                <img src="{{ asset('images/sw2.jpg') }}" class="gallery-img" alt="Gallery image">
+                <img src="{{ asset('images/img5.webp') }}" class="gallery-img" alt="Gallery image">
             </div>
 
             <div class="gallery-card">
-                <img src="{{ asset('images/sw3.jpg') }}" class="gallery-img" alt="Gallery image">
+                <img src="{{ asset('images/img6.webp') }}" class="gallery-img" alt="Gallery image">
+            </div>
+            <div class="gallery-card">
+                <img src="{{ asset('images/sw1.webp') }}" class="gallery-img" alt="Gallery image">
+            </div>
+
+
+            <div class="gallery-card">
+                <img src="{{ asset('images/sw2.webp') }}" class="gallery-img" alt="Gallery image">
+            </div>
+
+            <div class="gallery-card">
+                <img src="{{ asset('images/sw3.webp') }}" class="gallery-img" alt="Gallery image">
             </div>
 
         </div>

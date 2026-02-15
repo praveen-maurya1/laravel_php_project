@@ -22,7 +22,7 @@
 
             <!-- Product Card -->
             <div class="product-card">
-                <img src="{{ asset('images/ajwain.png') }}" alt="Product Image" class="product-img">
+                <img src="{{ asset('images/ajwain.webp') }}" alt="Product Image" class="product-img">
                 <h3>Ajwain (Carom Seeds)</h3>
                 <p>Sharp, digestive & aromatic</p>
             </div>
@@ -35,25 +35,25 @@
             </div>
 
             <div class="product-card">
-                <img src="{{ asset('images/badi_ilayachi.png') }}" alt="Product Image" class="product-img">
+                <img src="{{ asset('images/badi_ilayachi.webp') }}" alt="Product Image" class="product-img">
                 <h3>Badi Ilayachi (Black Cardamom)</h3>
                 <p>Smoky, bold & intense</p>
             </div>
 
             <div class="product-card">
-                <img src="{{ asset('images/tezpatta.png') }}" alt="Product Image" class="product-img">
+                <img src="{{ asset('images/tezpatta.webp') }}" alt="Product Image" class="product-img">
                 <h3>Tejpatta (Bay Leaf)</h3>
                 <p>Mild, earthy & aromatic</p>
             </div>
             <div class="product-card">
-                <img src="{{ asset('images/dalchini.png') }}" alt="Product Image" class="product-img">
+                <img src="{{ asset('images/dalchini.webp') }}" alt="Product Image" class="product-img">
                 <h3>Dalchini (Cinnamon)</h3>
                 <p>Warm, sweet & naturally fragrant</p>
             </div>
 
 
             <div class="product-card">
-                <img src="{{ asset('images/kali_mirch.png') }}" alt="Product Image" class="product-img">
+                <img src="{{ asset('images/kali_mirch.webp') }}" alt="Product Image" class="product-img">
                 <h3>Kali Mirch (Black Pepper)</h3>
                 <p>Bold, spicy & full of warmth</p>
             </div>
@@ -61,43 +61,43 @@
 
 
             <div class="product-card">
-                <img src="{{ asset('images/zeera.png') }}" alt="Product Image" class="product-img">
+                <img src="{{ asset('images/zeera.webp') }}" alt="Product Image" class="product-img">
                 <h3>Jeera (Cumin)</h3>
                 <p>Pure, aromatic & naturally rich</p>
             </div>
 
 
             <div class="product-card">
-                <img src="{{ asset('images/lakadi.png') }}" alt="Product Image" class="product-img">
+                <img src="{{ asset('images/lakadi.webp') }}" alt="Product Image" class="product-img">
                 <h3>Lakadi (Licorice Root)</h3>
                 <p>Natural, earthy & soothing</p>
             </div>
             <div class="product-card">
-                <img src="{{ asset('images/laung.png') }}" alt="Product Image" class="product-img">
+                <img src="{{ asset('images/laung.webp') }}" alt="Product Image" class="product-img">
                 <h3>Laung (Cloves)</h3>
                 <p>Strong, fragrant & flavourful</p>
             </div>
 
 
             <div class="product-card">
-                <img src="{{ asset('images/magrail.jpg') }}" alt="Product Image" class="product-img">
+                <img src="{{ asset('images/magrail.webp') }}" alt="Product Image" class="product-img">
                 <h3>Mangrel (Nigella / Kalonji)</h3>
                 <p>Earthy, pungent & wholesome</p>
             </div>
 
             <div class="product-card">
-                <img src="{{ asset('images/methidana.png') }}" alt="Product Image" class="product-img">
+                <img src="{{ asset('images/methidana.webp') }}" alt="Product Image" class="product-img">
                 <h3>Methi (Fenugreek)</h3>
                 <p>Fresh, bitter-sweet & nutritious</p>
             </div>
 
             <div class="product-card">
-                <img src="{{ asset('images/saunf.png') }}" alt="Product Image" class="product-img">
+                <img src="{{ asset('images/saunf.webp') }}" alt="Product Image" class="product-img">
                 <h3>Saunf (Fennel Seeds)</h3>
                 <p>Sweet, refreshing & natural</p>
             </div>
             <div class="product-card">
-                <img src="{{ asset('images/badam.jpg') }}" alt="Product Image" class="product-img">
+                <img src="{{ asset('images/badam.webp') }}" alt="Product Image" class="product-img">
                 <h3>Badam (Almonds)</h3>
                 <p>Crunchy, nutritious & premiums</p>
             </div>
@@ -120,17 +120,17 @@
                 <p>Fresh, natural & flavorful</p>
             </div>
             <div class="product-card">
-                <img src="{{ asset('images/hari_ilayachi.png') }}" alt="Product Image" class="product-img">
+                <img src="{{ asset('images/hari_ilayachi.webp') }}" alt="Product Image" class="product-img">
                 <h3>Hari Ilayachi (Green Cardamom)</h3>
                 <p>Premium, sweet & refreshing</p>
             </div>
             <div class="product-card">
-                <img src="{{ asset('images/chhuahara.jpg') }}" alt="Product Image" class="product-img">
+                <img src="{{ asset('images/chhuahara.webp') }}" alt="Product Image" class="product-img">
                 <h3>Chhuhara (Dry Dates)</h3>
                 <p>Naturally sweet & energy-rich</p>
             </div>
             <div class="product-card">
-                <img src="{{ asset('images/sonth.png') }}" alt="Product Image" class="product-img">
+                <img src="{{ asset('images/sonth.webp') }}" alt="Product Image" class="product-img">
                 <h3>Soth (Dry Ginger)</h3>
                 <p>Strong, warming & pure</p>
             </div>
